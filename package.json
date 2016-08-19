@@ -1,6 +1,6 @@
 {
-  "name": "node-inception",
-  "version": "0.0.1",
+  "name": "we-need-to-go-deeper",
+  "version": "0.0.2",
   "description": "it's like an inception instant button on your terminal",
   "main": "index.js",
   "scripts": {
