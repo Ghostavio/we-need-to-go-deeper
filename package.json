@@ -1,6 +1,6 @@
 {
   "name": "we-need-to-go-deeper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "it's like an inception instant button on your terminal",
   "main": "index.js",
   "scripts": {
